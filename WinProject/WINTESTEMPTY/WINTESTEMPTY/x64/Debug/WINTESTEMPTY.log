@@ -1,0 +1,3 @@
+﻿  winmain.cpp
+C:\Projects\FirstTwoCHMVLabs\WinProject\WINTESTEMPTY\WINTESTEMPTY\winmain.cpp(46,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  WINTESTEMPTY.vcxproj -> C:\Projects\FirstTwoCHMVLabs\WinProject\WINTESTEMPTY\x64\Debug\WINTESTEMPTY.exe
